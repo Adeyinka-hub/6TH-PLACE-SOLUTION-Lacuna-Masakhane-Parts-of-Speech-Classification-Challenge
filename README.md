@@ -1,4 +1,4 @@
-# 7TH-PLACE-SOLUTION-Lacuna-Masakhane-Parts-of-Speech-Classification-Challenge
+# 6TH-PLACE-SOLUTION-Lacuna-Masakhane-Parts-of-Speech-Classification-Challenge
 
 # Description:
 Part-of-speech (POS) tagging is a crucial step in natural language processing (NLP), as it allows algorithms to understand the grammatical structure and meaning of a text. This is especially important in creating the building blocks for preparing low-resource African languages for NLP tasks. The MaseakhaPOS dataset for 20 typologically diverse African languages, including benchmarks, was created with the help of Lacuna Fund to try and address this problem.
